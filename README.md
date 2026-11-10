@@ -1,6 +1,6 @@
 ## Hi, I'm David
 
-I'm a predoctoral research fellow at the [Yale School of Management](https://som.yale.edu/), where I work with Raphael Duguay and Anya Nakhmurina. I'm broadly interested in disclosure, public finance, sustainable finance, and municipal bond markets.
+I'm a predoctoral research fellow at the Yale School of Management, where I work with Raphael Duguay and Anya Nakhmurina. I'm broadly interested in disclosure, public finance, sustainable finance, and municipal bond markets.
 
 Before Yale, I was a research assistant in finance at the University of Cologne, where I earned a B.Sc. in Business Administration and an M.Sc. in Finance.
 
