@@ -18,7 +18,6 @@ More on my [research page](https://davidkust.com/research.html).
 ![Stata](https://img.shields.io/badge/Stata-1A5F91?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Slurm / HPC](https://img.shields.io/badge/Slurm%20%2F%20HPC-555555?style=flat-square)
 
 ### Find me
 
