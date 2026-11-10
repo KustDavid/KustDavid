@@ -21,9 +21,9 @@ More on my [research page](https://davidkust.com/research.html).
 
 ### Find me
 
-I am always happy to chat and connect — please reach out!
-
 [![Website](https://img.shields.io/badge/davidkust.com-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://davidkust.com)
 [![CV](https://img.shields.io/badge/CV-222222?style=flat-square&logo=readdotcv&logoColor=white)](https://davidkust.com/cv.html)
 [![Email](https://img.shields.io/badge/david.kust%40yale.edu-00356B?style=flat-square&logo=maildotru&logoColor=white)](mailto:david.kust@yale.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/davidkust/)
+
+I am always happy to chat and connect — please reach out!
