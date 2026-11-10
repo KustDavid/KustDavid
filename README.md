@@ -1,4 +1,4 @@
-### About me
+## About me
 
 I'm a predoctoral research fellow at the Yale School of Management, where I work with Raphael Duguay and Anya Nakhmurina. I'm broadly interested in disclosure, public finance, sustainable finance, and municipal bond markets.
 
